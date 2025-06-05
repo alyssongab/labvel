@@ -1,3 +1,3 @@
 <x-layout>
-    <h1>about page</h1>
+    <h1 class="text-red-400">about page</h1>
 </x-layout>
