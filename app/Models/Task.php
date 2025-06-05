@@ -12,7 +12,7 @@ class Task extends Model
     /**
      * The attributes that are mass assignable.
      *
-     * @var list<string, int>
+     * @var list<int,string>
      */
     protected $fillable = [
         'title',
